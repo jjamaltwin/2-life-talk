@@ -116,7 +116,7 @@
   .media{
     display: flex;
     flex-direction: column;
-    border: 2px gold;
+  
   }
   .services{
     margin-left: 1.25rem;
@@ -132,7 +132,6 @@
     flex-direction: column;
   }
   .slider {
-    border: 2px solid gold;
     max-width: 100%;
   }
 }
