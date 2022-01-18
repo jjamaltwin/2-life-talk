@@ -9,7 +9,7 @@ import { MDBContainer } from 'mdb-react-ui-kit';
 
 function App() {
   return (        
-    <MDBContainer fluid>
+    <MDBContainer fluid id="fluid" >
       <div className="App">
         <h1>2 Life Talk</h1>
         <div className="media">

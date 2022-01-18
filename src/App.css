@@ -111,7 +111,22 @@
 }
 
 
+
 @media only screen and (max-width: 1000px) {
+
+
+  #fluid {
+    padding: 0rem;
+    margin: 0rem;
+   
+
+  }
+
+
+  .profile {
+    margin-right: 2rem;
+ 
+  }
 
   .media{
     display: flex;
