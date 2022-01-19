@@ -39,7 +39,7 @@
 .services {
   background-color: ivory;
   max-width: 80%;
-  height: 17rem;
+  height: auto;
   border-radius: 45%;
   display: flex;
   flex-direction: column;
