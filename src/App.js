@@ -18,7 +18,7 @@ function App() {
           <p>
             "LifeTalk,...Let's Talk...get an understanding or a reason to laugh or
             cry, we are in this together!"
-            <h2>Life coach and counselling, Jocelyn Mathis-Miles </h2>
+            <h2>Life coach and counselling, Jocelyn Miles-Mathis </h2>
           </p>
           
         </div>
@@ -28,7 +28,7 @@ function App() {
           <p>Recovery Specialist</p>
           <p>Peer To Family conflict resolution</p>
           <p>Greiving Peer Support </p>
-          <p>PTSD Counseling</p>
+          <p>Trauma PTSD Peer Support </p>
           <p>Art Therapy</p>
         
         </div>
