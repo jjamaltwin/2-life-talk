@@ -28,7 +28,7 @@ function App() {
           <p>Recovery Specialist</p>
           <p>Peer To Family conflict resolution</p>
           <p>Greiving Peer Support </p>
-          <p>Trauma PTSD Peer Support </p>
+          <p>Trauma and PTSD Peer Support </p>
           <p>Art Therapy</p>
         
         </div>
